@@ -27,5 +27,7 @@ def main():
   report_json.generate(data)
   report_json.save()
 
+  report_json.print_abilities_report()
+
 if __name__ == "__main__":
   main()
