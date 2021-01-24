@@ -56,7 +56,7 @@ class Report:
       ability.new_justified_total = ability.defaults + ability.new_justified
       ability.new_percentage_diff = self.percentage_diff(ability.new_total, ability.defaults)
       ability.justified_percentage = self.percentage(ability.new_justified, ability.new_skills)
-      ability.justified_percentage_diff = self.percentage_diff(ability.new_skills, ability.new_justified)
+      ability.justified_percentage_diff = self.percentage_diff(ability.new_justified_total, ability.defaults)
 
   def percentage(self, a, b):
     if b == 0:
@@ -68,7 +68,7 @@ class Report:
     if b == 0:
       return "NaN"
     else:
-      return round(self.percentage(a, b)-100, 2)
+      return round(((a-b)/b)*100, 2)
 
   def get_items_json(self, items):
     items_json = {}
@@ -82,7 +82,7 @@ class Report:
     for ability in self.abilities:
       print("    {}".format(ability.upper()))
       print(json.dumps(self.abilities[ability], indent=4, sort_keys=True))
-    input("\nPress [ENTER] to continue.")
+    # input("\nPress [ENTER] to continue.")
 
   def save(self):
     self.abilities = self.get_items_json(self.abilities)
