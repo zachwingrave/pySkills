@@ -8,11 +8,11 @@ An investigation into the fairness of mixing ability scores and skill proficienc
 
 In Dungeons & Dragons 5e, there are 6 ability scores and 18 skill proficiencies. In the core rules as written, these 18 skill proficiencies are each paired with a single ability score which, together with a proficiency bonus that represents training in that skill, provides a bonus to skill checks and therefore boosts the likelihood that a player character will succeed at the check in question.
 
-An optional rule states that the ability scores can be mixed and matched according to the Dungeon Master's discretion. For instance, rather than making a Charisma (intimidation) check, a player may instead make a Strength (intimidation) check. This report aims to make some observations on what this would mean in terms of new skills and opportunities for player characters, and assist the reader in forming an educated opinion on whether this optional rule is fair.
+An optional rule states that the ability scores can be mixed and matched according to the Dungeon Master's discretion. For instance, rather than making a Charisma (intimidation) check, a player may instead make a Strength (intimidation) check. This program aims to make some observations on what this would mean in terms of new skills and opportunities for player characters, and assist the reader in forming an educated opinion on whether this optional rule is fair.
 
 ## Defining the Rules
 
-For consistency in this report, the following definitions apply:
+For consistency, the following definitions apply:
 
 - A single ability score matched with a single skill proficiency is called a `Pair`.
 - A `Pair` which appears on the official 5e character sheet is considered `default`.
