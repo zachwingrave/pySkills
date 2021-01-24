@@ -4,7 +4,7 @@
 
 An investigation into the fairness of mixing ability scores and skill proficiencies in Dungeons & Dragons 5e, inspired by the crew of the D&D podcast [Of Dice & DMs](https://soundcloud.com/ofdiceanddms). Thanks to Ben, Jeremy and Tory for all their hard work!
 
-## What is this?
+## What is This?
 
 In Dungeons & Dragons 5e, there are 6 ability scores and 18 skill proficiencies. In the core rules as written, these 18 skill proficiencies are each paired with a single ability score which, together with a proficiency bonus that represents training in that skill, provides a bonus to skill checks and therefore boosts the likelihood that a player character will succeed at the check in question.
 
