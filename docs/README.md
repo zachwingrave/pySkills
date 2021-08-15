@@ -29,4 +29,4 @@ Once the user has provided their responses for `justification` and `reasoning` f
 This software is licensed under the [GNU General Public License v3](LICENSE.md).
 
 ### Attributions
-[Of Dice & DMs](https://soundcloud.com/ofdiceanddms) is a weekly Australian podcast analysing Dungeons and Dragons as well as other role-playing games. Each week the hosts discuss a different topic concerning interactions at the table, monsters, or just general trends in the game.
+[Of Dice & DMs](https://soundcloud.com/ofdiceanddms) is a weekly Australian podcast analysing Dungeons & Dragons as well as other role-playing games. Each week the hosts discuss a different topic concerning interactions at the table, monsters, or just general trends in the game.
