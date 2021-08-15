@@ -30,5 +30,3 @@ This software is licensed under the [GNU General Public License v3](LICENSE.md).
 
 ### Attributions
 [Of Dice & DMs](https://soundcloud.com/ofdiceanddms) is a weekly Australian podcast analysing Dungeons and Dragons as well as other role-playing games. Each week the hosts discuss a different topic concerning interactions at the table, monsters, or just general trends in the game.
-
-[Code Programming Python](https://pixabay.com/photos/code-programming-python-1084923/) by [Johnson Martin](https://pixabay.com/users/JohnsonMartin-724525/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1084923) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1084923).
